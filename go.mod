@@ -1,3 +1,3 @@
-module github.com/TinoOnline/solid-garbanzo
+module github.com/TinoOnline/solidGarbanzo
 
 go 1.22.5
